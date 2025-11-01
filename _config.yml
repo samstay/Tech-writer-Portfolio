@@ -1,0 +1,21 @@
+title: Портфолио технического писателя
+description: Сэмплы документации, гайды и UX‑копирайтинг
+theme: minima
+author:
+  name: Ваше Имя
+  email: your.email@example.com
+  url: https://github.com/yourusername
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/yourusername" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/yourusername/" }
+# Настройки навигации
+header_pages:
+  - about.md
+  - resume.md
+  - contact.md
+
+# (не обязательно) базовые плагины, поддерживаемые GitHub Pages по умолчанию
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

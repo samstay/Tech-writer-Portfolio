@@ -1,0 +1,4 @@
+/* Немного аккуратных правок под minima */
+img { max-width: 100%; border-radius: 8px; }
+code { background: #f6f8fa; padding: 2px 4px; border-radius: 4px; }
+blockquote { border-left: 3px solid #eaecef; padding-left: .8rem; color: #57606a; }
